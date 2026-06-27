@@ -1,1 +1,1 @@
-requests
+worker: python main.py

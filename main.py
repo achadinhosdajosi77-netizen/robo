@@ -1,0 +1,1 @@
+print("Robô da Shopee iniciado com sucesso!")
